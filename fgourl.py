@@ -11,7 +11,7 @@ session = requests.Session()
 session.verify = False
 
 # ===== Game's parameters =====
-app_ver_ = ''
+app_ver_ = '2.82.1'
 data_ver_ = 0
 date_ver_ = 0
 ver_code_ = ''
